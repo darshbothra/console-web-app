@@ -1,0 +1,12 @@
+var fname="Darsh";
+var lname="Bothra";
+var fullname=fname.concat(lname);
+console.log(fname);
+console.log(lname);
+console.log(fullname);
+var a="65";
+var b="98";
+var add=a+b;
+console.log(a);
+console.log(b);
+console.log(add);
